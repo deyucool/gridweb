@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bsoconfig>
+    <BizMethod  Name="CommonService" Class ="com.yu.biz.CommonService">
+        <doMet Name="doMet" Input="CONMON_INPUT" Result="COMMON_RESULT"/>
+        <doSet Name="doSet" Input="CONMON_INPUT1" Result="COMMON_RESULT"/>
+    </BizMethod>  
+</bsoconfig>
